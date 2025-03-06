@@ -40,7 +40,6 @@ export default function Home() {
           </figure>
         </section>
       </main>
-
       <Footer />
     </>
   );
